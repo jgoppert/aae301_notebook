@@ -3,6 +3,12 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - scipy
-  - numpy
+  - pip
   - matplotlib
+  - numpy
+  - scipy
+  - control
+  - pytest
+  - pydot
+  - pip:
+    - casadi
