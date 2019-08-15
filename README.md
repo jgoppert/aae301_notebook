@@ -5,4 +5,4 @@ Using this notebook is not required, it is only used for in class examples.
 ## Getting Started
 
 * To start an interative session, click the binder or jupyterlab badges above.
-* To just view the notebooks, click on the viewer link.
+* To view the notebooks, click on the viewer link.
