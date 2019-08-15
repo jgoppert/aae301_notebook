@@ -7,8 +7,13 @@ dependencies:
   - matplotlib
   - numpy
   - scipy
+  - sympy
   - control
   - pytest
   - pydot
+  - librosa
+  - sympy
+  - opencv
+  - pyulog
   - pip:
     - casadi
