@@ -1,6 +1,6 @@
-# AAE 301 Class Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgoppert/aae301_notebook/master) [<img src="https://jupyter.org/assets/main-logo.svg" height="20" title="JupyterLab">](https://mybinder.org/v2/gh/jgoppert/aae301_notebook/master?urlpath=lab) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](http://nbviewer.jupyter.org/github/jgoppert/aae301_notebook/tree/master)
+# AAE 301 Class Notebook [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](http://nbviewer.jupyter.org/github/jgoppert/aae301_notebook/tree/master)
 
 ## Getting Started
 
-* To start an interative session, click the binder or jupyterlab badges above.
-* To view the notebooks, click on the viewer link.
+* Recommend using VSCode to run the notebook. Select create virtual env when prompted and run the necessary pip commands.
+* Can also run on https://colab.research.google.com/
