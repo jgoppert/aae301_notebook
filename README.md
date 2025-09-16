@@ -2,5 +2,5 @@
 
 ## Getting Started
 
-* Recommend using VSCode to run the notebook. Select create virtual env when prompted and run the necessary pip commands.
-* Can also run on https://colab.research.google.com/
+* Recommend using [VSCode](https://code.visualstudio.com/download) to run the notebook. Select create virtual env when prompted and run the necessary pip commands.
+* Can also run the notebooks on [Google Colab](https://colab.research.google.com/)
